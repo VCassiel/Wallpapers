@@ -9,8 +9,8 @@
 
 ---
 
-|                    Landscapes                    |                Artwork                 |                Closeups              |
-| :----------------------------------------------------: |:--------------------------------------:| :------------------------------------: |
+|                    Landscapes                        |                Artwork                 |                Closeups              |
+|:----------------------------------------------------:|:--------------------------------------:|:------------------------------------:|
 | ![landscape1](./Landscapes/Landscape-Rocks-02.png) | ![art1](./Artwork/Art-Panels-01.png) | ![closeup1](./Closeups/Closeup-Wheat-01.png) |
 | ![landscape2](./Landscapes/Landscape-Bridge-01.png) | ![art2](./Artwork/Art-Street-01.png) | ![closeup2](./Closeups/Closeup-Leaf-01.png) |
 > ... and more
