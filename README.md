@@ -2,7 +2,7 @@
     <h1>Wallpapers</h1>
     <p>
         Personally curated wallpapers, sourced mostly from wallhaven.cc<br />
-        Resolution: 1920x1080<br />
+        Resolution: 1920x1080 | 1080x1920<br />
         Format: PNG
     </p>
 </div>
